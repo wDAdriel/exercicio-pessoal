@@ -6,11 +6,9 @@
     <title>cadastrado</title>
 </head>
 <body>
-    <h1>Confirmação</h1>
+    <h1>Confirmação</h1>  
+    <?php
     
-        
-            
-    
-    
+    ?>php
 </body>
 </html>
